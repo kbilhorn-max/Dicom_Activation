@@ -1,0 +1,11 @@
+{
+  "SITE-001": {
+    "active": true,
+    "notes": "Main test site – unrestricted",
+    "expires": "2030-01-01"
+  },
+  "SITE-002": {
+    "active": false,
+    "notes": "Trial access revoked 2025-09-30"
+  }
+}
